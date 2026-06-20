@@ -165,7 +165,7 @@ srcset="https://raw.githubusercontent.com/amanbijalwan/amanbijalwan/output/pacma
 srcset="https://raw.githubusercontent.com/amanbijalwan/amanbijalwan/output/pacman-contribution-graph.svg">
 
 <img alt="snake"
-src="https://raw.githubusercontent.com/amanbijalwan/amanbijalwan/output/pacman-contribution-graph.svg">
+src="https://raw.githubusercontent.com/amanbijalwan/amanbijalwan/output/pacman-contribution-graph-dark.svg">
 
 </picture>
 
